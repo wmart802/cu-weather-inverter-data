@@ -1,0 +1,28 @@
+[info]
+Plant Name: Clarkson Inverter
+Date: 20/04/2019
+
+[measurements]
+Time;Address;Model;MPPT;VDC1;IDC1;PDC1;VDC2;IDC2;PDC2;VAC;IAC;PAC;TINV;TINT;ENERGY;RISO;ILEAK;IRR;GENFREQ;
+;;;;VDC;ADC;W;VDC;ADC;W;V;A;W;°C;°C;Wh;MOhm;mA;W/mq;Hz;
+
+[start]
+13:03;2;PVI-4.2-OUTD-US-W;S;35.8;0.4;13.2;34.6;0.2;7.2;196.6;0.1;0.0;35.7;35.7;1603.0;20.0;0;0;0;
+13:04;2;PVI-4.2-OUTD-US-W;S;27.0;0.4;9.9;25.8;0.2;5.3;196.7;0.1;0.0;35.4;34.7;1603.0;20.0;0;0;0;
+
+[system status]
+Time: 4/18/2019 1:08:07 PM
+System On Time: 4/18/2019 10:36:05 AM
+System Off Time: 4/18/2019 1:08:07 PM
+Today Energy: 1.6 kWh
+Lifetime Energy: 246.2 kWh
+
+13:05;2;PVI-4.2-OUTD-US-W;S;24.5;0.4;8.9;23.3;0.2;4.8;196.7;0.1;0.0;35.3;34.4;1603.0;20.0;0;0;0;
+13:06;2;PVI-4.2-OUTD-US-W;S;21.4;0.4;7.8;20.2;0.2;4.1;2.4;0.1;0.0;35.2;34.3;1603.0;20.0;0;0;0;
+
+[system status]
+Time: 4/18/2019 1:08:07 PM
+System On Time: 4/18/2019 10:36:05 AM
+System Off Time: 4/18/2019 1:08:07 PM
+Today Energy: 1.6 kWh
+Lifetime Energy: 246.2 kWh

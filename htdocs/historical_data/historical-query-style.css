@@ -1,0 +1,40 @@
+h1 {
+    margin-top: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+	width: 150px;
+	padding-right: 20px;
+	display: inline-block;
+	text-align: right;
+	vertical-align: top;
+}
+
+label span {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+}
+
+fieldset {
+    width: 400px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
+
+span {
+	align: top;
+}
+
+input[type=checkbox] {
+    width: auto;
+    border: none;
+}
+
+input[type=submit] {
+    width: auto;
+	margin-left: 200px;
+}
